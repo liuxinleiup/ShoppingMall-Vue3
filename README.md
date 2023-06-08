@@ -1,8 +1,8 @@
 # 基于Vue3购物商场
 # 一：技术工具环境
->技术：create-vue、Pinia、ElementPlus、Vue-Router、html5、css3、js、jq   
->工具：vscode   
->环境：node.js、chrome   
+>技术：Create-Vue、Pinia、ElementPlus、Vue-Router、Html5、Css3、Js、Jq   
+>工具：VSCode   
+>环境：Node.js、Chrome   
 # 二：项目功能
  首页模块、分类模块、商品详情模块、登录模块、购物车模块、填写订单模块、支付模块、用户中心 
  ***
