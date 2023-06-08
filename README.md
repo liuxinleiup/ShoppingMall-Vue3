@@ -1,6 +1,6 @@
 # 基于Vue3购物商场
 # 一：技术工具环境
->技术：Create-Vue、Pinia、ElementPlus、Vue-Router、Html5、Css3、Js、Jq   
+>技术：Create-Vue、Pinia、ElementPlus、Vue-Router、Html5、CSS3、Js、Jq   
 >工具：VSCode   
 >环境：Node.js、Chrome   
 # 二：项目功能
